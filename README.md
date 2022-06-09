@@ -19,7 +19,6 @@ BuildTool: maven
 
 #### 기능별 화면 및 기술구현 설명
 
-
   기능별 구현
    1. ## 홈페이지 
     - ![image](https://user-images.githubusercontent.com/96754636/153793539-ca69c092-4963-4abf-b4dd-72711e73ca5b.png)
@@ -53,4 +52,3 @@ BuildTool: maven
     - ![image](https://user-images.githubusercontent.com/96754636/153793167-01ce5675-13f2-4e40-89ce-962703183b7e.png)
    - 운영자 전용 사이트 (회원, 관리자, 주문통계 등을 관리한다.)
     - ![image](https://user-images.githubusercontent.com/96754636/153793400-2332b99c-5408-43e0-9a05-5667c4446d15.png)
-  

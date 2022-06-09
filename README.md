@@ -1,4 +1,8 @@
 # ShoppingMall
+
+## [회원 구현 영상](https://www.youtube.com/watch?v=NSBP3SEsLqQ, "회원 구현 영상")
+## [관리자 구현 영상](https://www.youtube.com/watch?v=XpI47Skcj1c, "관리자 구현 영상")
+
 ### 쇼핑몰 프로젝트를 위해 사용한 개발환경
 프로그래밍 언어: JAVA, JSP, Servlet  
 웹 표준: HTML, CSS, JavaScript, JQuery, ajax, Bootstrap  

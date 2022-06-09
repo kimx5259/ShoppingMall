@@ -19,8 +19,7 @@ BuildTool: maven
 
 #### 기능별 화면 및 기술구현 설명
 
-- 데이터 베이스 구성요소
-  - ![image](https://user-images.githubusercontent.com/96754636/153791502-6be4419b-9d7a-4a07-940c-f03baf68697c.png) 
+
   기능별 구현
    1. ## 홈페이지 
     - ![image](https://user-images.githubusercontent.com/96754636/153793539-ca69c092-4963-4abf-b4dd-72711e73ca5b.png)
